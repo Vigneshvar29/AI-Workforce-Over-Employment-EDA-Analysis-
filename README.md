@@ -108,4 +108,4 @@ B.Tech Artificial Intelligence and Data Science Student
 Aspiring Data Scientist and Machine Learning Engineer
 
 GitHub: https://github.com/Vigneshvar29
-LinkedIn: linkedin.com/in/vigneshvar-srinivasan-0a81853ba/
+LinkedIn: linkedin.com/in/vigneshvar-srinivasan-0a81853ba
